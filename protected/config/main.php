@@ -91,12 +91,12 @@ return array(
 //            
             
                 'db'=>array(
-'connectionString' => 'mysql:host=autopanda1.db.7369443.hostedresource.com;dbname=autopanda1',
+'connectionString' => 'mysql:host=autopandxxxxx',
 			'emulatePrepare' => true,
 			'username' => 'autopanda',
-			'password' => 'Legend@95',
+			'password' => 'xxxxxx',
 			'username' => 'autopanda1',
-			'password' => 'Legend@95',
+			'password' => 'xxxxxx',
 			'charset' => 'utf8',
 		),
 //		
