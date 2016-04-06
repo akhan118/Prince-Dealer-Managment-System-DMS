@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/protected/data
+END
+schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/protected/data/schema.mysql.sql
+END
+testdrive.db
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/protected/data/testdrive.db
+END
+schema.sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/protected/data/schema.sqlite.sql
+END

@@ -1,0 +1,63 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 43
+/arabicenlgishdictionary/auto/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/arabicenlgishdictionary/auto/svn/!svn/ver/18
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/LICENSE
+END
+Vehicle_Make.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/arabicenlgishdictionary/auto/svn/!svn/ver/8/Vehicle_Make.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/arabicenlgishdictionary/auto/svn/!svn/ver/4/test.php
+END
+UPGRADE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/UPGRADE
+END
+citystatelookup.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/arabicenlgishdictionary/auto/svn/!svn/ver/18/citystatelookup.php
+END
+index-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/index-test.php
+END
+php5.ini
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/php5.ini
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/index.php
+END

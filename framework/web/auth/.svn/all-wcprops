@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth
+END
+CAccessControlFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CAccessControlFilter.php
+END
+CUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CUserIdentity.php
+END
+schema-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/schema-mysql.sql
+END
+schema-pgsql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/schema-pgsql.sql
+END
+CAuthAssignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CAuthAssignment.php
+END
+CAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CAuthManager.php
+END
+CWebUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CWebUser.php
+END
+schema-oci.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/schema-oci.sql
+END
+CAuthItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CAuthItem.php
+END
+CDbAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CDbAuthManager.php
+END
+schema-mssql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/schema-mssql.sql
+END
+CBaseUserIdentity.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CBaseUserIdentity.php
+END
+CPhpAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/CPhpAuthManager.php
+END
+schema-sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/web/auth/schema-sqlite.sql
+END

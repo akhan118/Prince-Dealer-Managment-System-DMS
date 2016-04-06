@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema
+END
+CDbSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbSchema.php
+END
+CDbCriteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbCriteria.php
+END
+CDbCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbCommandBuilder.php
+END
+CDbTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbTableSchema.php
+END
+CDbColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbColumnSchema.php
+END
+CDbExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/CDbExpression.php
+END

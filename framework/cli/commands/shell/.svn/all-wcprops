@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell
+END
+CrudCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/CrudCommand.php
+END
+ModelCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/ModelCommand.php
+END
+ControllerCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/ControllerCommand.php
+END
+FormCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/FormCommand.php
+END
+ModuleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/ModuleCommand.php
+END
+HelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/shell/HelpCommand.php
+END

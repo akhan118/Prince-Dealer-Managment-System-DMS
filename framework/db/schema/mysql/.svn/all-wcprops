@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/mysql
+END
+CMysqlSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/mysql/CMysqlSchema.php
+END
+CMysqlCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/mysql/CMysqlCommandBuilder.php
+END
+CMysqlTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/mysql/CMysqlTableSchema.php
+END
+CMysqlColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/mysql/CMysqlColumnSchema.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands
+END
+WebAppCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/WebAppCommand.php
+END
+MessageCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/MessageCommand.php
+END
+ShellCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/ShellCommand.php
+END
+MigrateCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/cli/commands/MigrateCommand.php
+END

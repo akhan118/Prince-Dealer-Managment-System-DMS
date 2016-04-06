@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/oci
+END
+COciColumnSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/oci/COciColumnSchema.php
+END
+COciSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/oci/COciSchema.php
+END
+COciCommandBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/oci/COciCommandBuilder.php
+END
+COciTableSchema.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/db/schema/oci/COciTableSchema.php
+END

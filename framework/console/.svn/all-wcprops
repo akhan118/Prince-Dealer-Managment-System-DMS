@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console
+END
+CConsoleApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CConsoleApplication.php
+END
+CHelpCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CHelpCommand.php
+END
+CConsoleCommandRunner.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CConsoleCommandRunner.php
+END
+CConsoleCommand.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CConsoleCommand.php
+END
+CConsoleCommandBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CConsoleCommandBehavior.php
+END
+CConsoleCommandEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/arabicenlgishdictionary/auto/svn/!svn/ver/3/framework/console/CConsoleCommandEvent.php
+END
